@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hola! Mi nombre es Laura 👋
 
+Soy una apasionada de los datos que se está adentrando en el mundo del Big Data. Tengo muchas ganas de afrontar este reto y dar un impulso a mi carrera profesional. 
 <!--
 **CodingLauGit/CodingLauGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
